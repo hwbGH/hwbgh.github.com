@@ -267,7 +267,6 @@
                 <file name="src/util/GameConstants.js"/>
                 <file name="src/util/GameVersion.js"/>
                 <file name="src/manager/ColorManager.js"/>
-                <file name="src/manager/TextManager.js"/>
                 <file name="src/data/GameDataStorage.js"/>
                 <file name="src/bean/ColorSprite.js"/>
                 <file name="src/bean/AircraftSprite.js"/>
