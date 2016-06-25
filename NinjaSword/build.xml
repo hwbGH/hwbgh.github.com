@@ -269,9 +269,6 @@
                 <file name="src/manager/RoleManager.js"/>
                 <file name="src/data/GameDataStorage.js"/>
                 <file name="src/bean/RoleMain.js"/>
-                <file name="src/bean/AircraftSprite.js"/>
-                <file name="src/bean/StarSprite.js"/>
-                <file name="src/bean/CellItem.js"/>
                 <file name="src/frame/SceneFlash.js"/>
                 <file name="src/frame/WelfareFrame.js"/>
                 <file name="src/frame/HelpFrame.js"/>
