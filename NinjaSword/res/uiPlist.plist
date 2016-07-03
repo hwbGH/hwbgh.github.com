@@ -7,7 +7,7 @@
 			<key>ui/ninja0.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{968,321},{15,40}}</string>
+				<string>{{1006,173},{15,40}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -18,7 +18,7 @@
 			<key>ui/ninja1.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{942,321},{24,58}}</string>
+				<string>{{969,496},{24,58}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -29,7 +29,7 @@
 			<key>ui/ninja10.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{695,244},{80,78}}</string>
+				<string>{{138,392},{80,78}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -40,7 +40,7 @@
 			<key>ui/ninja11.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{449,379},{97,78}}</string>
+				<string>{{311,379},{97,78}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -51,7 +51,7 @@
 			<key>ui/ninja12.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{347,379},{100,78}}</string>
+				<string>{{661,404},{100,78}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -62,7 +62,7 @@
 			<key>ui/ninja13.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{359,299},{108,78}}</string>
+				<string>{{377,299},{108,78}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -73,7 +73,7 @@
 			<key>ui/ninja14.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{161,379},{108,78}}</string>
+				<string>{{661,324},{108,78}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -106,7 +106,7 @@
 			<key>ui/ninja17.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{154,299},{135,78}}</string>
+				<string>{{1,390},{135,78}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -117,7 +117,7 @@
 			<key>ui/ninja18.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{1,299},{151,78}}</string>
+				<string>{{158,312},{151,78}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -128,7 +128,7 @@
 			<key>ui/ninja19.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{1,401},{158,78}}</string>
+				<string>{{793,500},{158,78}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -139,7 +139,7 @@
 			<key>ui/ninja2.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{987,313},{28,74}}</string>
+				<string>{{763,465},{28,74}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -150,7 +150,7 @@
 			<key>ui/ninja20.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{777,321},{163,78}}</string>
+				<string>{{804,420},{163,78}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -161,7 +161,7 @@
 			<key>ui/ninja21.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{832,1},{186,78}}</string>
+				<string>{{1,232},{186,78}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -172,7 +172,7 @@
 			<key>ui/ninja22.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{500,244},{193,78}}</string>
+				<string>{{824,260},{193,78}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -183,7 +183,7 @@
 			<key>ui/ninja23.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{782,161},{203,78}}</string>
+				<string>{{500,244},{203,78}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -194,7 +194,7 @@
 			<key>ui/ninja24.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{782,241},{203,78}}</string>
+				<string>{{820,340},{203,78}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -205,7 +205,7 @@
 			<key>ui/ninja3.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{987,237},{31,74}}</string>
+				<string>{{771,389},{31,74}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -216,7 +216,7 @@
 			<key>ui/ninja4.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{987,161},{36,74}}</string>
+				<string>{{782,313},{36,74}}</string>
 				<key>offset</key>
 				<string>{0,-2}</string>
 				<key>rotated</key>
@@ -227,7 +227,7 @@
 			<key>ui/ninja5.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{548,324},{40,74}}</string>
+				<string>{{782,237},{40,74}}</string>
 				<key>offset</key>
 				<string>{0,-2}</string>
 				<key>rotated</key>
@@ -238,7 +238,7 @@
 			<key>ui/ninja6.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{271,388},{47,74}}</string>
+				<string>{{782,161},{47,74}}</string>
 				<key>offset</key>
 				<string>{0,-2}</string>
 				<key>rotated</key>
@@ -249,7 +249,7 @@
 			<key>ui/ninja7.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{291,312},{54,74}}</string>
+				<string>{{969,420},{54,74}}</string>
 				<key>offset</key>
 				<string>{0,-2}</string>
 				<key>rotated</key>
@@ -260,7 +260,7 @@
 			<key>ui/ninja8.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{291,232},{66,78}}</string>
+				<string>{{953,556},{66,78}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -271,7 +271,7 @@
 			<key>ui/ninja9.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{942,389},{75,78}}</string>
+				<string>{{705,244},{75,78}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -293,7 +293,7 @@
 			<key>ui/challenge.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{832,81},{186,78}}</string>
+				<string>{{189,232},{186,78}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -334,6 +334,72 @@
 				<key>sourceSize</key>
 				<string>{315,158}</string>
 			</dict>
+			<key>ui/hpBg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{410,379},{65,12}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{65,12}</string>
+			</dict>
+			<key>ui/revive.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{832,84},{175,87}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{175,87}</string>
+			</dict>
+			<key>ui/submit.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{832,1},{190,81}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{190,81}</string>
+			</dict>
+			<key>ui/cancel.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{487,324},{172,81}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{172,81}</string>
+			</dict>
+			<key>ui/exit.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,312},{155,76}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{155,76}</string>
+			</dict>
+			<key>ui/again.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{831,173},{173,85}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{173,85}</string>
+			</dict>
 		</dict>
 		<key>metadata</key>
 		<dict>
@@ -344,14 +410,14 @@
 			<key>realTextureFileName</key>
 			<string>uiPlist.png</string>
 			<key>size</key>
-			<string>{1024,480}</string>
+			<string>{1024,635}</string>
 		</dict>
 		<key>texture</key>
 		<dict>
 			<key>width</key>
 			<integer>1024</integer>
 			<key>height</key>
-			<integer>480</integer>
+			<integer>635</integer>
 		</dict>
 	</dict>
 </plist>

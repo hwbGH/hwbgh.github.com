@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>bullet/1_0_0.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{65,225},{62,11}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{62,11}</string>
+			</dict>
+			<key>bullet/4_0_0.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{83,124},{16,18}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{24,24}</string>
+			</dict>
+			<key>bullet/4_0_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{65,238},{18,16}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{24,24}</string>
+			</dict>
+			<key>bullet/4_0_2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{83,144},{16,18}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{24,24}</string>
+			</dict>
+			<key>bullet/4_0_3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{85,238},{18,16}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{24,24}</string>
+			</dict>
+			<key>bullet/4_1_0.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{65,184},{39,39}}</string>
+				<key>offset</key>
+				<string>{-3,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{45,39}</string>
+			</dict>
+			<key>bullet/4_1_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,184},{62,62}}</string>
+				<key>offset</key>
+				<string>{1,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{63,63}</string>
+			</dict>
+			<key>bullet/4_1_2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,98},{80,84}}</string>
+				<key>offset</key>
+				<string>{0,1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{81,87}</string>
+			</dict>
+			<key>bullet/4_1_3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{95,95}}</string>
+				<key>offset</key>
+				<string>{-1,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{96,96}</string>
+			</dict>
+			<key>bullet/3_0_0.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{83,98},{24,24}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{24,24}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>bulletPlist.png</string>
+			<key>realTextureFileName</key>
+			<string>bulletPlist.png</string>
+			<key>size</key>
+			<string>{128,255}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>128</integer>
+			<key>height</key>
+			<integer>255</integer>
+		</dict>
+	</dict>
+</plist>
