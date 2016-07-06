@@ -7,7 +7,7 @@
 			<key>button/continue.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{165,44},{102,52}}</string>
+				<string>{{403,56},{102,52}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -18,7 +18,7 @@
 			<key>button/exit.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{311,151},{100,51}}</string>
+				<string>{{1,192},{100,51}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -29,7 +29,7 @@
 			<key>button/help.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{1,100},{101,52}}</string>
+				<string>{{293,131},{101,52}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -40,7 +40,7 @@
 			<key>button/play.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{1,46},{102,52}}</string>
+				<string>{{403,110},{102,52}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -51,7 +51,7 @@
 			<key>button/ranking.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{314,43},{102,53}}</string>
+				<string>{{403,1},{102,53}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -62,7 +62,7 @@
 			<key>button/restart.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{209,140},{100,52}}</string>
+				<string>{{1,138},{100,52}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -73,7 +73,7 @@
 			<key>button/again.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{1,154},{101,51}}</string>
+				<string>{{205,185},{101,51}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -84,7 +84,7 @@
 			<key>button/welfare.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{341,98},{102,51}}</string>
+				<string>{{396,164},{102,51}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -95,18 +95,18 @@
 			<key>button/clearAll.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{1,1},{162,43}}</string>
+				<string>{{1,1},{212,70}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
 				<false />
 				<key>sourceSize</key>
-				<string>{162,43}</string>
+				<string>{212,70}</string>
 			</dict>
 			<key>button/cancel.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{105,98},{102,52}}</string>
+				<string>{{189,131},{102,52}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -117,7 +117,7 @@
 			<key>button/submit.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{104,152},{100,52}}</string>
+				<string>{{103,185},{100,52}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -128,35 +128,35 @@
 			<key>button/advertising.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{165,1},{147,41}}</string>
+				<string>{{215,1},{186,63}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
 				<false />
 				<key>sourceSize</key>
-				<string>{147,41}</string>
+				<string>{186,63}</string>
 			</dict>
 			<key>button/backToGame.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{314,1},{147,40}}</string>
+				<string>{{215,66},{186,63}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
 				<false />
 				<key>sourceSize</key>
-				<string>{147,40}</string>
+				<string>{186,63}</string>
 			</dict>
 			<key>button/buy.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{209,98},{130,40}}</string>
+				<string>{{1,73},{186,63}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
 				<false />
 				<key>sourceSize</key>
-				<string>{130,40}</string>
+				<string>{186,63}</string>
 			</dict>
 		</dict>
 		<key>metadata</key>
@@ -168,14 +168,14 @@
 			<key>realTextureFileName</key>
 			<string>buttonPlist.png</string>
 			<key>size</key>
-			<string>{462,206}</string>
+			<string>{506,244}</string>
 		</dict>
 		<key>texture</key>
 		<dict>
 			<key>width</key>
-			<integer>462</integer>
+			<integer>506</integer>
 			<key>height</key>
-			<integer>206</integer>
+			<integer>244</integer>
 		</dict>
 	</dict>
 </plist>
