@@ -274,12 +274,14 @@
                 <file name="src/bean/RoleMain.js"/>
                 <file name="src/bean/KnifeMan.js"/>
                 <file name="src/bean/DartsMan.js"/>
+                <file name="src/bean/WindMan.js"/>
                 <file name="src/frame/SceneFlash.js"/>
                 <file name="src/frame/WelfareFrame.js"/>
-                <file name="src/frame/HelpFrame.js"/>
+                <file name="src/frame/HelpScene.js"/>
                 <file name="src/frame/TipFrame.js"/>
                 <file name="src/frame/PauseFrame.js"/>
                 <file name="src/frame/OverFrame.js"/>
+                <file name="src/frame/HeroScene.js"/>
                 <file name="src/frame/MenuScene.js"/>
                 <file name="src/frame/GameScene.js"/>
                 <file name="main.js"/>

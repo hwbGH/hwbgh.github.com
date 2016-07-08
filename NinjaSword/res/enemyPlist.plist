@@ -400,270 +400,6 @@
 				<key>sourceSize</key>
 				<string>{183,18}</string>
 			</dict>
-			<key>role_enemy/5_0_0.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{829,241},{114,77}}</string>
-				<key>offset</key>
-				<string>{5,0}</string>
-				<key>rotated</key>
-				<false />
-				<key>sourceSize</key>
-				<string>{123,77}</string>
-			</dict>
-			<key>role_enemy/5_1_0.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{1,594},{84,77}}</string>
-				<key>offset</key>
-				<string>{-24,0}</string>
-				<key>rotated</key>
-				<false />
-				<key>sourceSize</key>
-				<string>{132,77}</string>
-			</dict>
-			<key>role_enemy/5_1_1.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{151,585},{84,77}}</string>
-				<key>offset</key>
-				<string>{-24,0}</string>
-				<key>rotated</key>
-				<false />
-				<key>sourceSize</key>
-				<string>{132,77}</string>
-			</dict>
-			<key>role_enemy/5_1_2.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{1,673},{84,77}}</string>
-				<key>offset</key>
-				<string>{-24,0}</string>
-				<key>rotated</key>
-				<false />
-				<key>sourceSize</key>
-				<string>{132,77}</string>
-			</dict>
-			<key>role_enemy/5_1_3.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{738,272},{84,77}}</string>
-				<key>offset</key>
-				<string>{-24,0}</string>
-				<key>rotated</key>
-				<false />
-				<key>sourceSize</key>
-				<string>{132,77}</string>
-			</dict>
-			<key>role_enemy/5_1_4.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{1,515},{89,77}}</string>
-				<key>offset</key>
-				<string>{-20,0}</string>
-				<key>rotated</key>
-				<false />
-				<key>sourceSize</key>
-				<string>{129,77}</string>
-			</dict>
-			<key>role_enemy/5_1_5.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{824,320},{84,77}}</string>
-				<key>offset</key>
-				<string>{-24,0}</string>
-				<key>rotated</key>
-				<false />
-				<key>sourceSize</key>
-				<string>{132,77}</string>
-			</dict>
-			<key>role_enemy/5_1_6.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{163,506},{85,77}}</string>
-				<key>offset</key>
-				<string>{-25,0}</string>
-				<key>rotated</key>
-				<false />
-				<key>sourceSize</key>
-				<string>{134,77}</string>
-			</dict>
-			<key>role_enemy/5_1_7.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{738,351},{84,77}}</string>
-				<key>offset</key>
-				<string>{-24,0}</string>
-				<key>rotated</key>
-				<false />
-				<key>sourceSize</key>
-				<string>{132,77}</string>
-			</dict>
-			<key>role_enemy/5_1_8.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{237,593},{84,77}}</string>
-				<key>offset</key>
-				<string>{-22,0}</string>
-				<key>rotated</key>
-				<false />
-				<key>sourceSize</key>
-				<string>{129,77}</string>
-			</dict>
-			<key>role_enemy/5_1_9.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{146,664},{84,77}}</string>
-				<key>offset</key>
-				<string>{-24,0}</string>
-				<key>rotated</key>
-				<false />
-				<key>sourceSize</key>
-				<string>{132,77}</string>
-			</dict>
-			<key>role_enemy/5_5_0.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{288,1},{129,116}}</string>
-				<key>offset</key>
-				<string>{27,24}</string>
-				<key>rotated</key>
-				<false />
-				<key>sourceSize</key>
-				<string>{183,165}</string>
-			</dict>
-			<key>role_enemy/5_5_1.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{170,1},{116,130}}</string>
-				<key>offset</key>
-				<string>{18,3}</string>
-				<key>rotated</key>
-				<false />
-				<key>sourceSize</key>
-				<string>{183,137}</string>
-			</dict>
-			<key>role_enemy/5_5_2.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{419,1},{129,116}}</string>
-				<key>offset</key>
-				<string>{-18,12}</string>
-				<key>rotated</key>
-				<false />
-				<key>sourceSize</key>
-				<string>{183,140}</string>
-			</dict>
-			<key>role_enemy/5_5_3.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{1,99},{116,130}}</string>
-				<key>offset</key>
-				<string>{-8,26}</string>
-				<key>rotated</key>
-				<false />
-				<key>sourceSize</key>
-				<string>{183,182}</string>
-			</dict>
-			<key>role_enemy/5_7_0.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{163,275},{101,77}}</string>
-				<key>offset</key>
-				<string>{-32,0}</string>
-				<key>rotated</key>
-				<false />
-				<key>sourceSize</key>
-				<string>{165,77}</string>
-			</dict>
-			<key>role_enemy/5_7_1.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{163,354},{98,77}}</string>
-				<key>offset</key>
-				<string>{-29,0}</string>
-				<key>rotated</key>
-				<false />
-				<key>sourceSize</key>
-				<string>{156,77}</string>
-			</dict>
-			<key>role_enemy/5_7_2.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{735,430},{83,74}}</string>
-				<key>offset</key>
-				<string>{-11,0}</string>
-				<key>rotated</key>
-				<false />
-				<key>sourceSize</key>
-				<string>{105,74}</string>
-			</dict>
-			<key>role_enemy/5_7_3.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{163,433},{98,71}}</string>
-				<key>offset</key>
-				<string>{1,0}</string>
-				<key>rotated</key>
-				<false />
-				<key>sourceSize</key>
-				<string>{99,71}</string>
-			</dict>
-			<key>role_enemy/5_7_4.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{910,453},{98,63}}</string>
-				<key>offset</key>
-				<string>{1,0}</string>
-				<key>rotated</key>
-				<false />
-				<key>sourceSize</key>
-				<string>{99,63}</string>
-			</dict>
-			<key>role_enemy/5_7_5.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{893,518},{98,62}}</string>
-				<key>offset</key>
-				<string>{1,0}</string>
-				<key>rotated</key>
-				<false />
-				<key>sourceSize</key>
-				<string>{99,62}</string>
-			</dict>
-			<key>role_enemy/5_7_6.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{481,580},{105,48}}</string>
-				<key>offset</key>
-				<string>{4,0}</string>
-				<key>rotated</key>
-				<false />
-				<key>sourceSize</key>
-				<string>{114,48}</string>
-			</dict>
-			<key>role_enemy/5_7_7.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{232,672},{120,41}}</string>
-				<key>offset</key>
-				<string>{12,0}</string>
-				<key>rotated</key>
-				<false />
-				<key>sourceSize</key>
-				<string>{144,41}</string>
-			</dict>
-			<key>role_enemy/5_7_8.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{564,659},{132,18}}</string>
-				<key>offset</key>
-				<string>{18,0}</string>
-				<key>rotated</key>
-				<false />
-				<key>sourceSize</key>
-				<string>{168,18}</string>
-			</dict>
 			<key>role_enemy/6_0_0.png</key>
 			<dict>
 				<key>frame</key>
@@ -1011,6 +747,270 @@
 				<string>{{463,650},{99,18}}</string>
 				<key>offset</key>
 				<string>{34,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{168,18}</string>
+			</dict>
+			<key>role_enemy/5_0_0.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{829,241},{114,77}}</string>
+				<key>offset</key>
+				<string>{5,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{123,77}</string>
+			</dict>
+			<key>role_enemy/5_1_0.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,594},{84,77}}</string>
+				<key>offset</key>
+				<string>{-24,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{132,77}</string>
+			</dict>
+			<key>role_enemy/5_1_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{151,585},{84,77}}</string>
+				<key>offset</key>
+				<string>{-24,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{132,77}</string>
+			</dict>
+			<key>role_enemy/5_1_2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,673},{84,77}}</string>
+				<key>offset</key>
+				<string>{-24,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{132,77}</string>
+			</dict>
+			<key>role_enemy/5_1_3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{738,272},{84,77}}</string>
+				<key>offset</key>
+				<string>{-24,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{132,77}</string>
+			</dict>
+			<key>role_enemy/5_1_4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,515},{89,77}}</string>
+				<key>offset</key>
+				<string>{-20,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{129,77}</string>
+			</dict>
+			<key>role_enemy/5_1_5.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{824,320},{84,77}}</string>
+				<key>offset</key>
+				<string>{-24,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{132,77}</string>
+			</dict>
+			<key>role_enemy/5_1_6.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{163,506},{85,77}}</string>
+				<key>offset</key>
+				<string>{-25,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{134,77}</string>
+			</dict>
+			<key>role_enemy/5_1_7.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{738,351},{84,77}}</string>
+				<key>offset</key>
+				<string>{-24,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{132,77}</string>
+			</dict>
+			<key>role_enemy/5_1_8.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{237,593},{84,77}}</string>
+				<key>offset</key>
+				<string>{-22,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{129,77}</string>
+			</dict>
+			<key>role_enemy/5_2_0.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{146,664},{84,77}}</string>
+				<key>offset</key>
+				<string>{-24,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{132,77}</string>
+			</dict>
+			<key>role_enemy/5_5_0.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{288,1},{129,116}}</string>
+				<key>offset</key>
+				<string>{27,24}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{183,165}</string>
+			</dict>
+			<key>role_enemy/5_5_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{170,1},{116,130}}</string>
+				<key>offset</key>
+				<string>{18,3}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{183,137}</string>
+			</dict>
+			<key>role_enemy/5_5_2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{419,1},{129,116}}</string>
+				<key>offset</key>
+				<string>{-18,12}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{183,140}</string>
+			</dict>
+			<key>role_enemy/5_5_3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,99},{116,130}}</string>
+				<key>offset</key>
+				<string>{-8,26}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{183,182}</string>
+			</dict>
+			<key>role_enemy/5_7_0.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{163,275},{101,77}}</string>
+				<key>offset</key>
+				<string>{-32,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{165,77}</string>
+			</dict>
+			<key>role_enemy/5_7_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{163,354},{98,77}}</string>
+				<key>offset</key>
+				<string>{-29,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{156,77}</string>
+			</dict>
+			<key>role_enemy/5_7_2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{735,430},{83,74}}</string>
+				<key>offset</key>
+				<string>{-11,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{105,74}</string>
+			</dict>
+			<key>role_enemy/5_7_3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{163,433},{98,71}}</string>
+				<key>offset</key>
+				<string>{1,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{99,71}</string>
+			</dict>
+			<key>role_enemy/5_7_4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{910,453},{98,63}}</string>
+				<key>offset</key>
+				<string>{1,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{99,63}</string>
+			</dict>
+			<key>role_enemy/5_7_5.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{893,518},{98,62}}</string>
+				<key>offset</key>
+				<string>{1,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{99,62}</string>
+			</dict>
+			<key>role_enemy/5_7_6.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{481,580},{105,48}}</string>
+				<key>offset</key>
+				<string>{4,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{114,48}</string>
+			</dict>
+			<key>role_enemy/5_7_7.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{232,672},{120,41}}</string>
+				<key>offset</key>
+				<string>{12,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{144,41}</string>
+			</dict>
+			<key>role_enemy/5_7_8.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{564,659},{132,18}}</string>
+				<key>offset</key>
+				<string>{18,0}</string>
 				<key>rotated</key>
 				<false />
 				<key>sourceSize</key>
