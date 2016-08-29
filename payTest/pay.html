@@ -1,0 +1,83 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'/>
+    <title>微信安全支付</title>
+    <meta name='viewport'
+          content='width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no'/>
+    <meta name='apple-mobile-web-app-capable' content='yes'/>
+    <meta name='full-screen' content='true'/>
+    <meta name='screen-orientation' content='portrait'/>
+    <meta name='x5-fullscreen' content='true'/>
+    <meta name='360-fullscreen' content='true'/>
+    <meta http-equiv='expires' content='0'/>
+</head>
+<body>
+
+<script>
+    // 微信团队郑重提示：res.err_msg将在用户支付成功后返回    ok，但并不保证它绝对可靠。
+    var pay_result_ok = "get_brand_wcpay_request：ok";
+    //支付过程中用户取消
+    var pay_result_cancel = "get_brand_wcpay_request：cancel";
+    //支付失败
+    var pay_result_fail = "get_brand_wcpay_request：fail";
+
+    var parameters = GetRequest();
+
+    var wechatInfo = navigator.userAgent.match(/MicroMessenger\/([\d\.]+)/i);
+    if (!wechatInfo) {
+        alert("请在微信中打开");
+        parent.callbackData(pay_result_fail);
+    } else if (wechatInfo[1] < "5.0") {
+        alert("仅支持微信5.0以上版本");
+        parent.callbackData(pay_result_fail);
+    }else{
+        jsApiCall();
+    }
+
+    /**
+     * 获取参数
+     * @returns {Object}
+     * @constructor
+     */
+    function GetRequest() {
+        var url = location.search; //获取url中"?"符后的字串
+        var theRequest = new Object();
+        if (url.indexOf("?") != -1) {
+            var str = url.substr(1);
+            strs = str.split("&");
+            for (var i = 0; i < strs.length; i++) {
+                theRequest[strs[i].split("=")[0]] = (strs[i].split("=")[1]).trim();
+            }
+        }
+        return theRequest;
+    }
+
+
+    //调用微信JS api 支付
+    function jsApiCall() {
+        WeixinJSBridge.invoke(
+                'getBrandWCPayRequest', parameters["orderData"],
+                function (res) {
+                    alert(res.err_msg);
+                    //WeixinJSBridge.log(res.err_msg);
+                    //alert(res.err_code+res.err_desc+res.err_msg);
+
+                    if (res.err_msg == pay_result_ok) {
+                        // 微信团队郑重提示：res.err_msg将在用户支付成功后返回    ok，但并不保证它绝对可靠。
+
+                    } else if (res.err_msg == pay_result_cancel) {
+                        //支付过程中用户取消
+
+                    } else if (res.err_msg == pay_result_fail) {
+                        //支付失败
+
+                    }
+
+                    parent.callback9117Pay(res.err_msg);
+                }
+        );
+    }
+</script>
+</body>
+</html>
