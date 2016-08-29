@@ -23,7 +23,7 @@
     var pay_result_fail = "get_brand_wcpay_request：fail";
 
     var parameters = GetRequest();
-	aerlt(parameters["orderData"]);
+	alert(parameters["orderData"]);
 
     var wechatInfo = navigator.userAgent.match(/MicroMessenger\/([\d\.]+)/i);
     if (!wechatInfo) {
