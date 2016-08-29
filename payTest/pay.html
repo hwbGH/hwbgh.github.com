@@ -26,11 +26,11 @@
 
     var wechatInfo = navigator.userAgent.match(/MicroMessenger\/([\d\.]+)/i);
     if (!wechatInfo) {
-        alert("请在微信中打开");
-        parent.callbackData(pay_result_fail);
+//        alert("请在微信中打开");
+//        parent.callbackData(pay_result_fail);
     } else if (wechatInfo[1] < "5.0") {
-        alert("仅支持微信5.0以上版本");
-        parent.callbackData(pay_result_fail);
+//        alert("仅支持微信5.0以上版本");
+//        parent.callbackData(pay_result_fail);
     }else{
         jsApiCall();
     }
