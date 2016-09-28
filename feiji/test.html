@@ -37,7 +37,7 @@
     }
 
 	function verify() {
-		String md5Key = "pOfyORg0isgXHh-OKLnt6qIaXkzT2r29";
+		var md5Key = "pOfyORg0isgXHh-OKLnt6qIaXkzT2r29";
 		var sign = hex_md5("appKey=" + parameters["appKey"] + "userToken=" + parameters["userToken"] + md5Key);
 		var result = gotoUrl("http://www.bjweichu.com/deploy/verify.jsp?appKey=" + parameters["appKey"] + "&userToken=" + parameters["userToken"] + "&sign=" + sign);
 	}
