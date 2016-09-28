@@ -13,12 +13,11 @@
     <meta http-equiv='expires' content='0'/>
 </head>
 <body>
-
+<script type="text/javascript" src="jquery-3.1.0.js"></script>
 <script>
 
     var parameters = GetRequest();
-	alert(location.search);
-
+	
     /**
      * 获取参数
      * @returns {Object}
@@ -37,6 +36,35 @@
         return theRequest;
     }
 
+	function verify() {
+		String md5Key = "pOfyORg0isgXHh-OKLnt6qIaXkzT2r29";
+		var sign = hex_md5("appKey=" + parameters["appKey"] + "userToken=" + parameters["userToken"] + md5Key);
+		var result = gotoUrl("http://www.bjweichu.com/deploy/verify.jsp?appKey=" + parameters["appKey"] + "&userToken=" + parameters["userToken"] + "&sign=" + sign);
+	}
+    function gotoUrl(orderUrl) {
+		var result = null;
+        $.ajax({
+            url: orderUrl,
+            async: false,
+            dataType: 'text',
+            success: function (data) {
+			alert("data : " + data);
+                if (data !== undefined) {
+                    //showPayWindow(data.transid,function(data){alert("测试回调:RetCode=" + data.RetCode+":TransId=" + data.TransId + ":OrderStatus=" + data.OrderStatus);});
+                    result = data;
+                } else {
+                    alert("data : " + data);
+                }
+            },
+            error: function (XMLHttpRequest, textStatus, errorThrown) {
+                //alert("error: " + XMLHttpRequest+",,,"+textStatus+",,,"+ errorThrown);
+                //alert(XMLHttpRequest.status);
+                //alert(XMLHttpRequest.readyState);
+                //alert(textStatus);
+            }
+        });
+		return result;
+    }
 </script>
 </body>
 </html>
