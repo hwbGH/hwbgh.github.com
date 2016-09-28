@@ -1,0 +1,42 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'/>
+    <title>测试</title>
+    <meta name='viewport'
+          content='width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no'/>
+    <meta name='apple-mobile-web-app-capable' content='yes'/>
+    <meta name='full-screen' content='true'/>
+    <meta name='screen-orientation' content='portrait'/>
+    <meta name='x5-fullscreen' content='true'/>
+    <meta name='360-fullscreen' content='true'/>
+    <meta http-equiv='expires' content='0'/>
+</head>
+<body>
+
+<script>
+
+    var parameters = GetRequest();
+	alert(parameters["appKey"] + "," + parameters["userToken"] + "," + parameters["sign"]);
+
+    /**
+     * 获取参数
+     * @returns {Object}
+     * @constructor
+     */
+    function GetRequest() {
+        var url = location.search; //获取url中"?"符后的字串
+        var theRequest = new Object();
+        if (url.indexOf("?") != -1) {
+            var str = url.substr(1);
+            strs = str.split("&");
+            for (var i = 0; i < strs.length; i++) {
+                theRequest[strs[i].split("=")[0]] = (strs[i].split("=")[1]).trim();
+            }
+        }
+        return theRequest;
+    }
+
+</script>
+</body>
+</html>
