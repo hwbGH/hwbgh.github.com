@@ -18,6 +18,8 @@
 <script>
 
     var parameters = GetRequest();
+	alert(location.search);
+
 	verify();
 
     /**
@@ -39,9 +41,14 @@
     }
 
 	function verify() {
-		var md5Key = "pOfyORg0isgXHh-OKLnt6qIaXkzT2r29";
-		var sign = hex_md5("appKey=" + parameters["appKey"] + "userToken=" + parameters["userToken"] + md5Key);
-		var result = gotoUrl("http://www.bjweichu.com/deploy/verify.jsp?appKey=" + parameters["appKey"] + "&userToken=" + parameters["userToken"] + "&sign=" + sign);
+		if(parameters["appKey"]){
+			var md5Key = "pOfyORg0isgXHh-OKLnt6qIaXkzT2r29";
+			var sign = hex_md5("appKey=" + parameters["appKey"] + "userToken=" + parameters["userToken"] + md5Key);
+			//var result = gotoUrl("http://www.bjweichu.com/deploy/verify.jsp?appKey=" + parameters["appKey"] + "&userToken=" + parameters["userToken"] + "&sign=" + sign);
+
+			window.location.href = "http://www.bjweichu.com/deploy/verify.jsp?appKey=" + parameters["appKey"] + "&userToken=" + parameters["userToken"] + "&sign=" + sign;
+		}
+		
 	}
     function gotoUrl(orderUrl) {
 	alert(orderUrl);
